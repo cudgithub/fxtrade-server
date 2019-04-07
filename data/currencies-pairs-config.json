@@ -1,0 +1,26 @@
+{
+	"USD CHF": {
+		"buyFractionDigits": 5,
+		"sellFractionDigits": 5
+	},
+	"GBP USD": {
+		"buyFractionDigits": 5,
+		"sellFractionDigits": 4
+	},
+	"GBP CHF": {
+		"buyFractionDigits": 5,
+		"sellFractionDigits": 5
+	},
+	"EUR SEK": {
+		"buyFractionDigits": 4,
+		"sellFractionDigits": 4
+	},
+	"USD JPY": {
+		"buyFractionDigits": 3,
+		"sellFractionDigits": 3
+	},
+	"EUR JPY": {
+		"buyFractionDigits": 3,
+		"sellFractionDigits": 3
+	}
+}
